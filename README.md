@@ -8,6 +8,7 @@ This is my documentation of my node project.
 - 24/7 Connectivity
 - **Minimal** 4GB RAM & 100GB Storage
 - **Pastikan Ports 80 dan 443 terbuka**
+- Submit Whitelist Node Form: https://docs.google.com/forms/d/e/1FAIpQLScbxN1qlstpbyU55K5I1UPufzfwshcv7uRJG6aLZQDk52ma0w/viewform
 
 ---
 
